@@ -12,13 +12,19 @@ MariaDB
 PostMan
 
 npm install -g express-generator
+
 npm install -g sequelize-cli
+
 express nodejs-work && npm install
 
 sequelize migration:generate --name create-users
+
 sequelize db:migrate
+
 sequelize seed:generate --name seed-users
+
 c(pre npm install moment --save)
+
 sequelize migration:generate --name add-uuid-to-users
 
 -------------------------------------------------------
