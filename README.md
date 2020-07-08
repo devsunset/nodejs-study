@@ -1,28 +1,36 @@
-# nodejs-work
+--------------------------------------------------------------------------------
+
+			# NODEJS-WORK #
+
+--------------------------------------------------------------------------------
 
 # Install
+
 Node.js
 MongoDB
 MariaDB
 PostMan
 
-# npm install -g express-generator
-# npm install -g sequelize-cli
-# express nodeServer && npm install
+npm install -g express-generator
+npm install -g sequelize-cli
+express nodejs-work && npm install
 
-# sequelize migration:generate --name create-users
-# sequelize db:migrate
-# sequelize seed:generate --name seed-users
-# c(pre npm install moment --save)
-# sequelize migration:generate --name add-uuid-to-users
+sequelize migration:generate --name create-users
+sequelize db:migrate
+sequelize seed:generate --name seed-users
+c(pre npm install moment --save)
+sequelize migration:generate --name add-uuid-to-users
+
 -------------------------------------------------------
 
 # Install module
+
 npm install
 
 -------------------------------------------------------
 
 # Server Start
+
 npm start
 
 -------------------------------------------------------
