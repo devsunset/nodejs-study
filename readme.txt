@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 
-			# NODEJS-WORK #
+			# NODEJS-STUDY #
 
 --------------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ https://nodemailer.com/about/
 
 --------------------------------------------------------------------------------
 
-# nodejs-work
+# nodejs-study
 
 # Install
 
@@ -57,7 +57,7 @@ npm install -g express-generator
 
 npm install -g sequelize-cli
 
-express nodejs-work && npm install
+express nodejs-study && npm install
 
 sequelize migration:generate --name create-users
 
